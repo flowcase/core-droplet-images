@@ -612,4 +612,4 @@ do
 done
 
 
-log "Exiting Kasm container"
+log "Exiting container"
