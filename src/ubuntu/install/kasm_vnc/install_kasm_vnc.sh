@@ -17,7 +17,7 @@ echo "Install KasmVNC server"
 cd /tmp
 BUILD_ARCH=$(uname -p)
 UBUNTU_CODENAME=""
-KASMVNC_VER="1.3.1"
+KASMVNC_VER="1.3.3"
 GITHUB_REPO="kasmtech/KasmVNC"
 
 if [ "${DISTRO}" == "kali" ]  ;
